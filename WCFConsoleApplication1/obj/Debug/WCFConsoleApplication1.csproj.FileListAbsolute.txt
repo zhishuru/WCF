@@ -6,3 +6,6 @@ D:\visual studio 2013\Projects\Solution1\WCFConsoleApplication1\obj\Debug\WCFCon
 D:\visual studio 2013\Projects\Solution1\WCFConsoleApplication1\obj\Debug\WCFConsoleApplication1.csprojResolveAssemblyReference.cache
 D:\visual studio 2013\Projects\Solution1\WCFConsoleApplication1\bin\Debug\WcfService2.dll
 D:\visual studio 2013\Projects\Solution1\WCFConsoleApplication1\bin\Debug\WcfService2.pdb
+D:\repository\wcf\WCFConsoleApplication1\bin\Debug\WCFConsoleApplication1.exe.config
+D:\repository\wcf\WCFConsoleApplication1\obj\Debug\WCFConsoleApplication1.exe
+D:\repository\wcf\WCFConsoleApplication1\obj\Debug\WCFConsoleApplication1.pdb

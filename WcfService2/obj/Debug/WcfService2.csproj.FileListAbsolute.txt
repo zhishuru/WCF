@@ -4,3 +4,9 @@ D:\visual studio 2013\Projects\Solution1\WcfService2\bin\WcfService2.pdb
 D:\visual studio 2013\Projects\Solution1\WcfService2\obj\Debug\WcfService2.dll
 D:\visual studio 2013\Projects\Solution1\WcfService2\obj\Debug\WcfService2.pdb
 D:\visual studio 2013\Projects\Solution1\WcfService2\obj\Debug\WcfService2.csprojResolveAssemblyReference.cache
+D:\repository\wcf\WcfService2\bin\WcfService2.dll.config
+D:\repository\wcf\WcfService2\bin\WcfService2.dll
+D:\repository\wcf\WcfService2\bin\WcfService2.pdb
+D:\repository\wcf\WcfService2\obj\Debug\WcfService2.csprojResolveAssemblyReference.cache
+D:\repository\wcf\WcfService2\obj\Debug\WcfService2.dll
+D:\repository\wcf\WcfService2\obj\Debug\WcfService2.pdb
