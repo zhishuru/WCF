@@ -10,7 +10,7 @@ namespace WcfService2
     public class Number1 
     {
 
-        public Number1(int num)
+        public Number1(int num)是多少啊都是
         {
             Num = num;
         }
